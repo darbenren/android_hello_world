@@ -26,3 +26,4 @@ jobs:
         with:
           name: RotateCamera-APK
           path: app/build/outputs/apk/debug/*.apk
+
